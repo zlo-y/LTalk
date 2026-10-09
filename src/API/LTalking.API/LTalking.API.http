@@ -1,0 +1,6 @@
+@LTalking.API_HostAddress = http://localhost:5272
+
+GET {{LTalking.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
